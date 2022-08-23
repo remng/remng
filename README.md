@@ -19,4 +19,3 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/remng/) 
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:renatomngarcia@gmail.com)
 
-![Snake animation](https://github.com/remng/remng/blob/output/github-contribution-grid-snake.svg)
